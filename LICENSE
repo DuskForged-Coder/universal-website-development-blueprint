@@ -1,67 +1,109 @@
-PROPRIETARY LICENSE — ALL RIGHTS RESERVED
+# PROPRIETARY LICENSE — ALL RIGHTS RESERVED
 
-Project: Universal Website Development Blueprint
-Copyright Owner: Aditya Narayan Rautaray
-Copyright Year: 2026
+**Project:** Universal Website Development Blueprint  
+**Copyright Owner:** Aditya Narayan Rautaray  
+**Copyright Year:** 2026
 
-Copyright (c) 2026 Aditya Narayan Rautaray. All rights reserved.
+Copyright © 2026 Aditya Narayan Rautaray. All rights reserved.
 
-1. Ownership
+## 1. Ownership and Copyright
 
-All original content in this repository, including documentation, diagrams, architectural illustrations, written materials, and original source code, is protected by applicable copyright and intellectual property laws.
+The original materials contained in this repository, including written documentation, architecture diagrams, visual representations, original source code, and other original creative materials, are protected by applicable copyright and intellectual property laws.
 
-The copyright owner retains all rights to the original materials unless expressly granted in writing.
+All rights to these original materials are retained by the copyright owner unless expressly granted through a separate written agreement.
 
-2. No General Licence Granted
+## 2. Public Access and Viewing
 
-No licence or permission is granted to reproduce, copy, modify, adapt, redistribute, republish, sublicense, or commercially exploit any protected project material without prior written authorization from the copyright owner.
+This repository may be publicly accessible for viewing, educational reference, and evaluation.
 
-Access to this public repository does not constitute permission to reuse its protected materials.
+Visitors may:
 
-3. Viewing and Personal Learning
+- View the repository and its publicly available documentation.
+- Explore the architecture diagrams.
+- Read the educational material.
+- Reference the project when discussing its general concepts.
 
-Individuals may access and view the publicly available repository for personal learning, evaluation, and reference.
+Public access does not grant permission to reproduce, redistribute, republish, or commercially exploit protected project materials.
 
-This permission does not authorize redistribution, republication, commercial exploitation, or reproduction of substantial portions of the protected materials.
+## 3. Restrictions on Use
 
-4. Commercial Licensing
+Unless prior written authorization has been obtained from the copyright owner, no individual or organization may:
 
-Commercial use, redistribution, integration into commercial products, or incorporation of protected project materials into third-party products requires a separate written licence.
+- Copy or reproduce substantial portions of the original documentation.
+- Download and redistribute the original diagrams as part of another published project.
+- Republish the project's original materials on another website, repository, platform, or publication.
+- Modify, adapt, translate, or create derivative versions of protected materials for redistribution.
+- Sell, sublicense, or commercially exploit the original materials.
+- Incorporate protected project materials into commercial products, services, templates, or paid educational resources.
+- Remove or alter copyright notices.
+- Claim authorship or ownership of the original materials.
 
-Commercial licensing terms, fees, scope, and conditions must be agreed upon with the copyright owner before such use.
+## 4. Personal and Educational Reference
 
-5. Written Authorization
+Individuals may view and study the publicly available materials for personal learning and educational understanding.
 
-Any permission to use protected project materials must be explicitly granted in writing by the copyright owner.
+This limited permission does not authorize republication, distribution of copies, or incorporation of substantial protected material into another work.
 
-Permission may be limited by purpose, duration, territory, distribution, modification rights, and commercial scope.
+General engineering concepts, methods, and independently developed implementations are not claimed as the exclusive property of the copyright owner.
 
-6. Restrictions
+## 5. Commercial Licensing
 
-Without prior written authorization, no person or organization may:
+Commercial use of protected project materials requires a separate written commercial licence.
 
-Republish substantial portions of the project's original documentation.
+Commercial licensing may be available to:
 
-Reproduce or redistribute the original architecture diagrams.
+- Businesses and software development companies.
+- Software agencies and consulting organizations.
+- Educational institutions and training providers.
+- Developers incorporating protected materials into commercial products.
+- Organizations seeking redistribution or adaptation rights.
 
-Present the project's original materials as their own.
+Licensing terms, fees, permitted uses, duration, territory, attribution requirements, and other conditions will be determined through an individual written agreement.
 
-Sell or commercially distribute copies or adaptations of protected materials.
+No commercial rights are granted automatically through access to this repository.
 
-Remove copyright notices or falsely claim ownership of the original work.
+## 6. Written Authorization
 
-7. Third-Party Materials
+Any permission to reproduce, distribute, modify, adapt, or commercially use protected project materials must be explicitly granted in writing by the copyright owner.
 
-Materials owned by third parties remain subject to their respective licences and copyright terms. This notice does not claim ownership over third-party materials.
+Verbal discussions, public repository access, GitHub stars, forks, or informal acknowledgements do not independently constitute a commercial licence or authorization to reproduce protected materials.
 
-8. Disclaimer
+## 7. Third-Party Materials
 
-The project is provided for educational and informational purposes. The copyright owner makes no guarantee regarding security, compliance, availability, performance, or suitability for any particular implementation.
+This licence applies only to original materials owned by the copyright owner.
 
-9. Enforcement
+Third-party assets, libraries, trademarks, references, and other externally owned materials remain subject to their respective licences and terms.
 
-Unauthorized use of protected materials may result in legal action and other remedies available under applicable law.
+Nothing in this document claims ownership over third-party intellectual property.
 
-Copyright Owner: Aditya Narayan Rautaray
-Project: Universal Website Development Blueprint
-Repository: https://github.com/DuskForged-Coder/universal-website-development-blueprint
+## 8. Disclaimer
+
+The project is provided for educational and informational purposes.
+
+The copyright owner makes no warranties regarding the security, reliability, availability, regulatory compliance, performance, or suitability of the architecture for any particular implementation.
+
+Users are responsible for independently evaluating, testing, and adapting architectural recommendations to their requirements.
+
+## 9. Copyright Enforcement
+
+Unauthorized reproduction, distribution, adaptation, or commercial exploitation of protected materials may constitute copyright infringement.
+
+The copyright owner reserves the right to pursue remedies available under applicable law, including appropriate legal action where infringement is established.
+
+## 10. Contact and Licensing Enquiries
+
+For commercial licensing, reproduction permissions, collaboration agreements, or other authorization requests, contact the copyright owner through the following channels:
+
+**Copyright Owner:** Aditya Narayan Rautaray
+
+**GitHub:** https://github.com/DuskForged-Coder
+
+**Licensing and Support:** https://razorpay.me/@adityanarayanrautaray
+
+A payment or voluntary contribution does not itself grant permission to use protected project materials. A separate written licence is required.
+
+---
+
+**Project:** Universal Website Development Blueprint  
+**Copyright © 2026 Aditya Narayan Rautaray**  
+**All Rights Reserved.**
