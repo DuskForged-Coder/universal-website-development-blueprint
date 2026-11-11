@@ -6,6 +6,13 @@ Designed and developed by **Aditya Narayan Rautaray**.
 
 > **Core principle:** Scale modules to the product, not the other way around. Start with the smallest safe architecture that meets requirements; add complexity only when justified.
 
+
+## Interactive Architecture Demo
+
+Explore the complete interactive, 8-page architecture diagram:
+
+[🚀 Open Universal Website Development Blueprint](https://duskforged-coder.github.io/universal-website-development-blueprint/diagrams/ARYAVAX_Universal_Website_Development_Blueprint.drawio-2.drawio.html)
+
 ## What this project is
 
 The Universal Website Development Blueprint is a technology-independent reference architecture. It organizes the major concerns involved in a modern website or web application into understandable modules, explains how those modules relate, and provides a practical method for adapting them to projects of different sizes.
