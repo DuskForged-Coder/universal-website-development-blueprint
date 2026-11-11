@@ -7,7 +7,7 @@ Designed and developed by **Aditya Narayan Rautaray**.
 > **Core principle:** Scale modules to the product, not the other way around. Start with the smallest safe architecture that meets requirements; add complexity only when justified.
 
 
-## Interactive Architecture Demo
+## You may see Architecture here
 
 Explore the complete interactive, 8-page architecture diagram:
 
